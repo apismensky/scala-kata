@@ -5,9 +5,10 @@
 *.war
 *.ear
 target
+project
 
 # IntelliJ Files #
-.idea/*
+.idea
 *.iml
 
 .DS_Store
