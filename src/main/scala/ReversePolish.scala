@@ -32,7 +32,7 @@ object ReversePolish {
   }
 
   def getOperation(sign: String): Option[(Int, Int) => Int] = {
-    sign match  {
+    sign match {
       case "+" => Some(_ + _)
       case "-" => Some(_ - _)
       case "*" => Some(_ * _)
