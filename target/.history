@@ -1,5 +1,0 @@
-def getOperation(sign: String) = (a: Int, b: Int) => {
-    
-      
-scala
-exit
